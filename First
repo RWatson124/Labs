@@ -1,11 +1,9 @@
 <!DOCTYPE html >
-
 <html >
     <head >
-        <title >Web Tech </title >
+        <title > Headings </title >
     </head >
     <body >
-        <h1 >Hello Web Tech</h1 >
-        <p> Something about Web technologies</p>
+        <h1 >A Very Important Heading </h1 >
     </body >
-</html >
+</html > 
